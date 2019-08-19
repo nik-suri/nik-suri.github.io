@@ -18,7 +18,7 @@ module.exports = {
       options: {
         name: `docs`,
         path: `${__dirname}/src/docs`,
-      }
+      },
     },
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sharp`,
