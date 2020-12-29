@@ -11,15 +11,32 @@
   font-weight: 800;
   color: #8e8e8e;
   margin-bottom: 10px;
+  display: flex;
+  align-items: center;
+}
+
+#backBtn {
+  color: #8e8e8e;
+  margin-right: 12px;
 }
 
 .line {
   margin: 10px 0px;
 }
 
+.line-header {
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+
+.line-body {
+  padding-left: 10px;
+}
+
 #links {
   display: flex;
   align-items: center;
+  margin-top: 20px;
 }
 
 #links > * {
